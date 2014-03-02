@@ -1,4 +1,4 @@
-Misc
+PHP
 ====
 
-Misc. projects.
+PHP projects.
